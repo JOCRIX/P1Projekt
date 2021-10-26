@@ -1,0 +1,5 @@
+/* func() bruges til x og gør y. Den tager x y z inputs. Returnerer b */
+int func(unsigned int a, float *bArray){
+	int b;
+	return b;
+}
